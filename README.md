@@ -1,5 +1,3 @@
-
-```md
 # Google Doc RAG Chatbot
 
 ## Problem Statement
@@ -128,3 +126,6 @@ Retrieval-Augmented Generation concepts and can be extended with larger document
 advanced ranking, or UI enhancements.
 
 ---
+# Demo Screenshots
+<img width="1832" height="968" alt="image" src="https://github.com/user-attachments/assets/b0c74651-6248-490e-82cc-f3fe18cca96f" />
+
